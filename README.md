@@ -21,9 +21,6 @@
 ### 📊 Dashboard
 <img src="screenshots/dashboard.png" alt="Dashboard" width="700"/>
 
-### 🤖 AI Insights
-<img src="screenshots/ai-insights.png" alt="AI Insights" width="700"/>
-
 ### 🧘 Wellness Hub
 <img src="screenshots/wellness-hub.png" alt="Wellness Hub" width="700"/>
 
